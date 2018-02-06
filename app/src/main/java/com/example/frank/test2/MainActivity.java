@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
     }
     void test(){
         int x=0;
+        int y=1;
 
     }
 }
